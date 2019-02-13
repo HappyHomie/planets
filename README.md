@@ -2,3 +2,4 @@
 
 * Merkur
 * Venus
+* Jorden
