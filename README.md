@@ -5,3 +5,6 @@
 * Jorden
 * Mars
 * Jupiter
+* Saturn
+* Uranus
+* Neptun
