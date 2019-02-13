@@ -4,3 +4,4 @@
 * Venus
 * Jorden
 * Mars
+* Jupiter
